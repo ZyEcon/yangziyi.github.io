@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Canada"
   employer         : "McGill University"
-  uri              : "https://yangziyi.github.io" # URL
+  uri              : # URL
   email            : "ziyi.yang4@mail.mcgill.ca" 
 
   # Academic websites
